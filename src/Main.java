@@ -33,6 +33,8 @@ public class Main {
 
         String str = kosul1 ? "Sınıfı Geçti" : "Sınıfta Kaldı";
         System.out.println(str);
+
+
     }
 }
 
